@@ -26,6 +26,6 @@ JavaScript – Interactivity and DOM manipulation
 
 Clone the repository
 
-git clone 
+git clone - https://github.com/Narendk/Nostra_E-commerce_Website.git
 
 Open index.html in your browser
