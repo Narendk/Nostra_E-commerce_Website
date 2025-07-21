@@ -21,3 +21,11 @@ HTML – Structure and content
 Tailwind CSS – Styling and responsiveness
 
 JavaScript – Interactivity and DOM manipulation
+
+**🧪 How to Use**
+
+Clone the repository
+
+git clone 
+
+Open index.html in your browser
